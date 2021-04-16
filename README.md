@@ -1,1 +1,2 @@
-# code-quiz
+# code-quiz 
+test your javascript knowledge!
